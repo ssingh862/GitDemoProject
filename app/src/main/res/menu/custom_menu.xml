@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuSplash"
+        android:title="Splash_Screen"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuLogin"
+        android:title="Login_Screen"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuAbout"
+        android:title="About_Screen"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuContact"
+        android:title="Contact_Screen"
+        app:showAsAction="never"/>
+
+
+</menu>
